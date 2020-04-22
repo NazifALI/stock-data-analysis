@@ -1,0 +1,27 @@
+{
+  "name": "stock-data-analysis",
+  "version": "1.0.0",
+  "description": "Project for analyzing stock price graphs to build a trading bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NazifALI/stock-data-analysis.git"
+  },
+  "author": "Nazif Ali and Kevin Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NazifALI/stock-data-analysis/issues"
+  },
+  "homepage": "https://github.com/NazifALI/stock-data-analysis#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.2",
+    "express": "^4.17.1",
+    "lodash": "^4.17.15",
+    "mongoose": "^5.9.10",
+    "nodemon": "^2.0.3"
+  }
+}
