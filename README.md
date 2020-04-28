@@ -1,2 +1,2 @@
-# stock-data-analysis
-Project for analyzing stock price graphs to build a trading bot
+# tradebot-ui
+Stock and Crypto trading dashboard
